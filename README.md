@@ -10,7 +10,7 @@ Projeto simples de página de login, feito com foco em aprendizado e evolução 
 
 ## 🔧 Em breve
 
-- [ ✅ ] Integração com banco de dados
+- [X] Integração com banco de dados
 - [ ] Autenticação com Google
 - [ ] Recuperação de senha
 - [ ] Cadastro de novos usuários
