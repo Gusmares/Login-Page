@@ -16,6 +16,24 @@ Projeto simples de página de login, feito com foco em aprendizado e evolução 
 - [ ] Cadastro de novos usuários
 - [ ] Feedback visual para erros
 
+
+## 🗂️ Estrutura
+
+```
+.
+├── app.py
+├── Login
+│   └── README.md
+├── README.md
+├── static
+│   └── styles.css
+└── templates
+    ├── dashboard.html
+    ├── login.html
+    ├── recover.html
+    └── signup.html
+```
+
 ## 📌 Observações
 
 Este projeto está sendo desenvolvido com fins educativos. A estrutura e funcionalidades podem mudar ao longo do tempo.
