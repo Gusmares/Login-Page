@@ -37,13 +37,13 @@ Projeto simples de página de login, feito com foco em aprendizado e evolução 
 ## 📌 Observações
 Para funcionar, você deve instalar o *Flask* e o *bcrypt*
 
-´´´
+````
 pip install flask
-´´´
+````
 
-´´´
+````
 pip install bcrypt
-´´´
+````
 
 Este projeto está sendo desenvolvido com fins educativos. A estrutura e funcionalidades podem mudar ao longo do tempo.
 
