@@ -39,6 +39,12 @@ Para funcionar, você deve instalar o *Flask* e o *bcrypt*
 
 ````
 pip install flask
+
+pip install flask flask-session
+
+pip install flask flask-session flask-sqlalchemy
+
+pip install --upgrade flask-session
 ````
 
 ````
